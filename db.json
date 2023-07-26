@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "name": "Projeto 1",
+      "budget": "15000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "novo serviço",
+          "cost": "200",
+          "description": "isso ai",
+          "id": "9cc6826d-3477-4110-8ea8-50d15059f316"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Projeto 2",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "Projeto 3",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "Projeto 4",
+      "budget": "15000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
